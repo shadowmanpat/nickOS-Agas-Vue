@@ -61,8 +61,7 @@ export default {
     }
   }
   , mounted() {
-            console.log('Component mounted!');
-            $('#modal1').modal('open');
+           
         },
   methods:{
     showPage: function(pageId){
