@@ -8,7 +8,7 @@ var firebaseConfig = {
   projectId: "new-project-learning-e27af",
   storageBucket: "new-project-learning-e27af.appspot.com",
   messagingSenderId: "864740331378",
-  appId: "1:864740331378:web:72b3ccea8fa2301b"
+  appId: "1:864740331378:web:595c9fa1f52ccc488517eb"
 };
 
 const firebaseApp = firebase.initializeApp(firebaseConfig);
